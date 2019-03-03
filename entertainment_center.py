@@ -8,27 +8,27 @@ def main():
     deadpool = media.Movie("Deadpool", "A fast-talking mercenary subjected to rogue experiment leaves him with accelerated powers", "http://bit.ly/2eorTC7",
                        "https://www.youtube.com/watch?v=gtTfd6tISfw")
     
-    avatar = media.Movie("Avatar",
-                     "A marine on an alien planet.",
-                     "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
-                     "https://www.youtube.com/watch?v=5PSNL1qE6VY") 
+    birdbox = media.Movie("Bird Box",
+                     "When a mysterious force decimates the population, only one thing is certain -- if you see it, you die.",
+                     "https://en.wikipedia.org/wiki/Bird_Box_(film)#/media/File:Bird_Box_(film).png",
+                     "https://www.youtube.com/watch?v=o2AsIXSh2xo") 
 
-    matrix = media.Movie("Matrix",
-                     "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-                     "https://www.movieposter.com/posters/archive/main/9/A70-4902",
-                     "https://www.youtube.com/watch?v=m8e-FF8MsqU")
+    horriblebosses = media.Movie("Horrible Bosses",
+                     "Nick, Dale and Kurt have personal grudges against their bosses. After a night of drunken revelry, they decide to hire a hitman and assassinate their bosses. However, things don't go quite as planned.",
+                     "https://www.google.com/search?tbm=isch&q=Horrible+Bosses#imgrc=nmp7BCjkxusKYM:",
+                     "https://www.youtube.com/watch?v=VpUeQV8sdOc")
 
-    contact = media.Movie("Contact",
-                          "We make contact with aliens",
-                          "https://upload.wikimedia.org/wikipedia/en/7/75/Contact_ver2.jpg",
-                          "https://www.youtube.com/watch?v=d9C2cF3KvP8")
+    thehangover = media.Movie("The Hangover",
+                          "The misadventures of a quartet of friends who go on their road trip to attend a bachelor party.",
+                          "https://www.google.com/search?tbm=isch&q=The+Hangover#imgrc=k7Wf_1vw_Faq7M:",
+                          "https://www.youtube.com/watch?v=tcdUhdOlz9M")
     spectre = media.Movie("Spectre",
                           "James Bond receives an obscure message he uncovers the conspiracy,",
                           "https://upload.wikimedia.org/wikipedia/en/c/c3/Spectre_poster.jpg",
                           "https://www.youtube.com/watch?v=vBnGxAkdh_k")
     
     """Storing the list of objects to movies"""
-    movies = [deadpool,avatar,matrix,contact,spectre]
+    movies = [deadpool,birdbox,horriblebosses,thehangover,spectre]
     """ opening the trailer webpage in user's web browser"""
     
     fresh_tomatoes.open_movies_page(movies)
