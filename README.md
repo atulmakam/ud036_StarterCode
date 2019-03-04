@@ -30,3 +30,10 @@ The Python module called fresh_tomatoes.py has a function called open_movies_pag
 # TESTS
  The HTML page runs smoothly without errors
 
+# REFERENCES
+ 1.Referred to this Github Repository for movie trailer and poster links:adharshremus/Movie-Trailer-Website-Udacity-Project
+ 2.Referred to the lessons in the python foundation nanodegree
+ 3.Referred to Google
+ 4.Referred to Stackoverflow for resolving errors
+
+
