@@ -3,6 +3,7 @@ import os
 import re
 
 # Styles and scripting for the page
+#Edited this to change the title and formatting of the page
 main_page_head = '''
 <head>
     <meta charset="utf-8">
@@ -125,7 +126,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">Atul Makam Presents-Fresh Tomatoes Movie Trailers</a>
           </div>
         </div>
       </div>
