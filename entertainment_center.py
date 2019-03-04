@@ -6,20 +6,20 @@ def main():
     """list of my favorite movies"""
     """In the order of movie_name,storyline,poster_image,youtube_tailer_url"""
     spectre = media.Movie("Spectre",
-                          "James Bond receives an obscure message"
+                          "James Bond receives an obscure message "
                           "when he uncovers the conspiracy.",
                           "https://upload.wikimedia.org/wikipedia"
                           "/en/c/c3/Spectre_poster.jpg",
                           "https://www.youtube.com/watch?v=vBnGxAkdh_k")   
     toy_story = media.Movie("Toy Story",
-                            "A story of a boy and his toys"
+                            "A story of a boy and his toys "
                             "that come to life.",
                             "https://upload.wikimedia.org/"
                             "wikipedia/en/thumb/1/13/Toy_Story.jpg/"
                             "220px-Toy_Story.jpg",
                             "https://www.youtube.com/watch?v=KYz2wyBy3kc")
     mad_max = media.Movie("Mad Max: Fury Road", 
-                          " A woman rebels against a tyrannical ruler"
+                          "A woman rebels against a tyrannical ruler "
                           "in search for her home-land with the help "
                           "of a drifter named Max.",
                           "https://upload.wikimedia.org/wikipedia/en/6/"
@@ -43,8 +43,8 @@ def main():
                                "en/b/bc/Interstellar_film_poster.jpg",
                                "https://youtu.be/0vxOhd4qlnA")
     deadpool = media.Movie("Deadpool", 
-                           "A fast-talking mercenary subjected to"
-                           " rogue experiment leaves him with "
+                           "A fast-talking mercenary subjected to "
+                           "rogue experiment leaves him with "
                            "accelerated powers", 
                            "http://bit.ly/2eorTC7",
                            "https://www.youtube.com/watch?v=gtTfd6tISfw")
