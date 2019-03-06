@@ -25,13 +25,21 @@ The Python module called fresh_tomatoes.py has a function called open_movies_pag
 
 # RUNNING THE CODE
  1.Make sure Python 2.7 or later and Git have been installed on your computer
+ 
  2.Make sure your computer is connected to the internet
+ 
  3.Download the code or clone the repository
+ 
  4.Make sure the files (media.py, entertainment_center.py, and fresh_tomatoes.py) are present in the same folder.
- 5.Open these files using IDLE.
+ 
+ 5.Open these files using IDLE
+ 
  6.Open the media.py file and make changes if needed
+ 
  7.Open the entertainment_center.py file and run the module
+ 
  8.Save your work (if any editing was done), and run the entertainment_center.py file. It will generate the HTML page or          Website [fresh_tomatoes.html], using the fresh_tomatoes.py file.
+ 
  9.Enjoy the trailers of my favorite movies
  
 # TESTS
@@ -42,5 +50,6 @@ The Python module called fresh_tomatoes.py has a function called open_movies_pag
  2.Referred to the lessons in the python foundation nanodegree
  3.Referred to Google
  4.Referred to Stackoverflow for resolving errors
+ 5.Reffered to this github repository for a sample readme file: elnobun/Movie-Trailer-Website
 
 
