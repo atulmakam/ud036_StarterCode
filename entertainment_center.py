@@ -8,7 +8,8 @@ def main():
     spectre = media.Movie("Spectre",
                           "James Bond receives an obscure message "
                           "when he uncovers the conspiracy.",
-                          "https://upload.wikimedia.org/wikipedia/en/c/c3/Spectre_poster.jpg", #noqa
+                          "https://upload.wikimedia.org/
+                          "wikipedia/en/c/c3/Spectre_poster.jpg",
                           "https://www.youtube.com/watch?v=vBnGxAkdh_k")   
     toy_story = media.Movie("Toy Story",
                             "A story of a boy and his toys "
