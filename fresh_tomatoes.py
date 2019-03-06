@@ -3,7 +3,6 @@ import os
 import re
 
 # Styles and scripting for the page
-#Edited this to change the title and formatting of the page
 main_page_head = '''
 <head>
     <meta charset="utf-8">
